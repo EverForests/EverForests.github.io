@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>林知的小窝</title>
-    <updated>2024-03-20T09:20:44.076Z</updated>
+    <updated>2024-03-20T09:46:53.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>林知</name>
@@ -15,46 +15,6 @@
     <logo>https://raw.githubusercontent.com/BreezEcho/PicGo/master/20240123-105745.jpeg</logo>
     <icon>https://valaxy.site/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 林知</rights>
-    <entry>
-        <title type="html"><![CDATA[Go语法基础]]></title>
-        <id>https://valaxy.site/posts/techstack/Go/Go语言语法基础</id>
-        <link href="https://valaxy.site/posts/techstack/Go/Go语言语法基础"/>
-        <updated>2022-10-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>包、变量和函数</h2>
-<p>待填</p>
-<h2>流程控制语句（for、if、else、switch和defer）</h2>
-<p>待填</p>
-<h2>实用的类型</h2>
-<h3>切片</h3>
-<ul>
-<li>相关特性</li>
-</ul>
-<ol>
-<li>切片的长度len：切片内包</li>
-</ol>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.222Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Guideline]]></title>
-        <id>https://valaxy.site/posts/techstack/front-end/css</id>
-        <link href="https://valaxy.site/posts/techstack/front-end/css"/>
-        <updated>2024-03-07T14:55:46.000Z</updated>
-        <content type="html"><![CDATA[  <!--more-->
-<p><a href="https://www.acwing.com/file_system/file/content/whole/index/content/4194723/">文档手册</a></p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.222Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2021岁末回想]]></title>
         <id>https://valaxy.site/posts/essay/2021岁末回想</id>
@@ -70,7 +30,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于生活的一点点思考]]></title>
@@ -82,7 +42,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go语言实现贪吃蛇]]></title>
@@ -100,7 +60,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[平庸与卓越之间的差别不在于天赋]]></title>
@@ -115,139 +75,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 1]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1"/>
-        <updated>2022-02-28T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>前缀和模板题</h1>
-<h2>1. 前缀和</h2>
-<p>输入一个长度为 n 的整数序列。</p>
-<p>接下来再输入 m 个询问，每个询问输入一对 l,r。</p>
-<p>对于每个询问，输出原序列中从第 l 个数到第 r 个数的和。</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 2]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2"/>
-        <updated>2022-03-01T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>二分与前缀和的练习</h1>
-<h2>分巧克力</h2>
-<p>儿童节那天有 K位小朋友到小明家做客。</p>
-<p>小明拿出了珍藏的巧克力招待小朋友们。</p>
-<p>小明一共有 N 块巧克力，其中第 ii 块是 Hi×Wi 的方格组成的长</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 3]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3"/>
-        <updated>2023-03-02T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>数学与简单DP</h1>
-<h2>数学（根据例题讲解）</h2>
-<h3>买不到的数</h3>
-<p>小明开了一家糖果店。</p>
-<p>他别出心裁：把水果糖包成4颗一包和7颗一包的两种。</p>
-<p>糖果不能拆包卖。</p>
-<p>小朋友来买糖的时候，他</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 4]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4"/>
-        <updated>2022-03-03T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>不简单DP</h1>
-<h2>01背包问题</h2>
-<p>有 N 件物品和一个容量是 V 的背包。每件物品只能使用一次。</p>
-<p>第 i 件物品的体积是 vi，价值是 wi。</p>
-<p>求解将哪些物品装入背包，可使这些物品的总</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 5]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5"/>
-        <updated>2022-03-04T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>从集合角度分析DP问题</h1>
-<h2>算法特点</h2>
-<ul>
-<li>一般问法：最值（价值等属性）、达到某一目标的方向总数</li>
-<li>背包问题的本质为组合问题，即在一定条件下从一部分物品中挑选物品；同时也类似于图论的最</li>
-</ul>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 6]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6"/>
-        <updated>2022-03-05T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>背包问题练习与LeetCode初体验</h1>
-<p>这两天做题效率低了一些，不过背包是一块难啃的骨头，要集中一些。</p>
-<h2>波动数列</h2>
-<p>观察这个数列：</p>
-<p>1 3 0 2 -1 1 -2 …</p>
-<p>这个数列中</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDaily 7]]></title>
-        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7</id>
-        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7"/>
-        <updated>2022-03-08T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h1>枚举、模拟问题</h1>
-<p>这类问题通常没有一个非常契合的算法作为计算模板，但通常数据量是有过精心设计的。</p>
-<p>我们可以通过以下问题来看一看。</p>
-<h2>1.连续区间段</h2>
-<blockquote>
-<p>没有思路时，从暴力做法入手</p>
-</blockquote>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 8]]></title>
@@ -266,7 +94,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[双指针、BFS和图论]]></title>
@@ -282,7 +110,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[最小生成树]]></title>
@@ -299,7 +127,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[“有些鸟儿是注定不会被关在牢笼里的”——《肖申克的救赎》观影记]]></title>
@@ -324,7 +152,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[观上大龙门石窟有感]]></title>
@@ -338,7 +166,179 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T09:19:20.218Z</published>
+        <published>2024-03-20T09:45:52.674Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语法基础]]></title>
+        <id>https://valaxy.site/posts/techstack/Go/Go语言语法基础</id>
+        <link href="https://valaxy.site/posts/techstack/Go/Go语言语法基础"/>
+        <updated>2022-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>包、变量和函数</h2>
+<p>待填</p>
+<h2>流程控制语句（for、if、else、switch和defer）</h2>
+<p>待填</p>
+<h2>实用的类型</h2>
+<h3>切片</h3>
+<ul>
+<li>相关特性</li>
+</ul>
+<ol>
+<li>切片的长度len：切片内包</li>
+</ol>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.674Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Guideline]]></title>
+        <id>https://valaxy.site/posts/techstack/front-end/css</id>
+        <link href="https://valaxy.site/posts/techstack/front-end/css"/>
+        <updated>2024-03-07T14:55:46.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<p><a href="https://www.acwing.com/file_system/file/content/whole/index/content/4194723/">文档手册</a></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.674Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 1]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1"/>
+        <updated>2022-02-28T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>前缀和模板题</h1>
+<h2>1. 前缀和</h2>
+<p>输入一个长度为 n 的整数序列。</p>
+<p>接下来再输入 m 个询问，每个询问输入一对 l,r。</p>
+<p>对于每个询问，输出原序列中从第 l 个数到第 r 个数的和。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 2]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2"/>
+        <updated>2022-03-01T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>二分与前缀和的练习</h1>
+<h2>分巧克力</h2>
+<p>儿童节那天有 K位小朋友到小明家做客。</p>
+<p>小明拿出了珍藏的巧克力招待小朋友们。</p>
+<p>小明一共有 N 块巧克力，其中第 ii 块是 Hi×Wi 的方格组成的长</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 3]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3"/>
+        <updated>2023-03-02T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>数学与简单DP</h1>
+<h2>数学（根据例题讲解）</h2>
+<h3>买不到的数</h3>
+<p>小明开了一家糖果店。</p>
+<p>他别出心裁：把水果糖包成4颗一包和7颗一包的两种。</p>
+<p>糖果不能拆包卖。</p>
+<p>小朋友来买糖的时候，他</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 4]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4"/>
+        <updated>2022-03-03T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>不简单DP</h1>
+<h2>01背包问题</h2>
+<p>有 N 件物品和一个容量是 V 的背包。每件物品只能使用一次。</p>
+<p>第 i 件物品的体积是 vi，价值是 wi。</p>
+<p>求解将哪些物品装入背包，可使这些物品的总</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 5]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5"/>
+        <updated>2022-03-04T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>从集合角度分析DP问题</h1>
+<h2>算法特点</h2>
+<ul>
+<li>一般问法：最值（价值等属性）、达到某一目标的方向总数</li>
+<li>背包问题的本质为组合问题，即在一定条件下从一部分物品中挑选物品；同时也类似于图论的最</li>
+</ul>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 6]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6"/>
+        <updated>2022-03-05T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>背包问题练习与LeetCode初体验</h1>
+<p>这两天做题效率低了一些，不过背包是一块难啃的骨头，要集中一些。</p>
+<h2>波动数列</h2>
+<p>观察这个数列：</p>
+<p>1 3 0 2 -1 1 -2 …</p>
+<p>这个数列中</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 7]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7"/>
+        <updated>2022-03-08T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>枚举、模拟问题</h1>
+<p>这类问题通常没有一个非常契合的算法作为计算模板，但通常数据量是有过精心设计的。</p>
+<p>我们可以通过以下问题来看一看。</p>
+<h2>1.连续区间段</h2>
+<blockquote>
+<p>没有思路时，从暴力做法入手</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T09:45:52.670Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[基本格式参考]]></title>
