@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>林知的小窝</title>
-    <updated>2024-03-20T10:08:41.476Z</updated>
+    <updated>2024-03-20T10:14:21.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>林知</name>
@@ -15,18 +15,6 @@
     <logo>https://raw.githubusercontent.com/BreezEcho/PicGo/master/20240123-105745.jpeg</logo>
     <icon>https://valaxy.site/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 林知</rights>
-    <entry>
-        <title type="html"><![CDATA[关于生活的一点点思考]]></title>
-        <id>https://valaxy.site/posts/essay/生活思考</id>
-        <link href="https://valaxy.site/posts/essay/生活思考"/>
-        <updated>2022-10-30T05:58:51.000Z</updated>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T10:07:37.788Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Go语言实现贪吃蛇]]></title>
         <id>https://valaxy.site/posts/project/Go语言实现贪吃蛇</id>
@@ -43,7 +31,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.788Z</published>
+        <published>2024-03-20T10:12:48.672Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[平庸与卓越之间的差别不在于天赋]]></title>
@@ -58,46 +46,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.788Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“有些鸟儿是注定不会被关在牢笼里的”——《肖申克的救赎》观影记]]></title>
-        <id>https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受</id>
-        <link href="https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受"/>
-        <updated>2022-01-08T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<h2>纲要</h2>
-<p>本文由以下两部分组成</p>
-<blockquote>
-<p>启迪：自我、决心与智慧<br>
-电影：拍摄手法，绝妙的对比，前后与左右</p>
-</blockquote>
-<p>以及更进一步的</p>
-<blockquote>
-<ol>
-<li>隐忍的前提是决心，安迪有获得自由的决心，他不向现实低头</li>
-</ol>
-</blockquote>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T10:07:37.788Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观上大龙门石窟有感]]></title>
-        <id>https://valaxy.site/posts/essay/travel/观上大龙门石窟有感</id>
-        <link href="https://valaxy.site/posts/essay/travel/观上大龙门石窟有感"/>
-        <updated>2021-10-05T17:35:51.000Z</updated>
-        <content type="html"><![CDATA[<p>铭心妙相，龙门石窟。</p>
-]]></content>
-        <author>
-            <name>林知</name>
-            <email>l1477319644@163.com</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-03-20T10:07:37.788Z</published>
+        <published>2024-03-20T10:12:48.672Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go语法基础]]></title>
@@ -122,7 +71,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.788Z</published>
+        <published>2024-03-20T10:12:48.672Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS Guideline]]></title>
@@ -137,7 +86,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.788Z</published>
+        <published>2024-03-20T10:12:48.672Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021岁末回想]]></title>
@@ -154,7 +103,19 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于生活的一点点思考]]></title>
+        <id>https://valaxy.site/posts/essay/生活思考</id>
+        <link href="https://valaxy.site/posts/essay/生活思考"/>
+        <updated>2022-10-30T05:58:51.000Z</updated>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 1]]></title>
@@ -172,7 +133,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 2]]></title>
@@ -190,7 +151,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 3]]></title>
@@ -210,7 +171,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 4]]></title>
@@ -228,7 +189,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 5]]></title>
@@ -247,7 +208,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 6]]></title>
@@ -266,7 +227,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 7]]></title>
@@ -286,7 +247,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACDaily 8]]></title>
@@ -305,7 +266,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[双指针、BFS和图论]]></title>
@@ -321,7 +282,7 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[最小生成树]]></title>
@@ -338,7 +299,46 @@
             <email>l1477319644@163.com</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-03-20T10:07:37.784Z</published>
+        <published>2024-03-20T10:12:48.668Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“有些鸟儿是注定不会被关在牢笼里的”——《肖申克的救赎》观影记]]></title>
+        <id>https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受</id>
+        <link href="https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受"/>
+        <updated>2022-01-08T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h2>纲要</h2>
+<p>本文由以下两部分组成</p>
+<blockquote>
+<p>启迪：自我、决心与智慧<br>
+电影：拍摄手法，绝妙的对比，前后与左右</p>
+</blockquote>
+<p>以及更进一步的</p>
+<blockquote>
+<ol>
+<li>隐忍的前提是决心，安迪有获得自由的决心，他不向现实低头</li>
+</ol>
+</blockquote>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T10:12:48.668Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观上大龙门石窟有感]]></title>
+        <id>https://valaxy.site/posts/essay/travel/观上大龙门石窟有感</id>
+        <link href="https://valaxy.site/posts/essay/travel/观上大龙门石窟有感"/>
+        <updated>2021-10-05T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<p>铭心妙相，龙门石窟。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T10:12:48.668Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[基本格式参考]]></title>
