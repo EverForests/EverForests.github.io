@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>林知的小窝</title>
+    <updated>2024-03-20T07:31:14.566Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>林知</name>
+        <email>l1477319644@163.com</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/atom.xml"/>
+    <subtitle>Stay rational, and follow your heart.</subtitle>
+    <logo>https://raw.githubusercontent.com/BreezEcho/PicGo/master/20240123-105745.jpeg</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 林知</rights>
+    <entry>
+        <title type="html"><![CDATA[2021岁末回想]]></title>
+        <id>https://valaxy.site/posts/essay/2021岁末回想</id>
+        <link href="https://valaxy.site/posts/essay/2021岁末回想"/>
+        <updated>2021-12-28T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>2021岁末回想</h1>
+<p>跌荡起伏，上上下下，摇摆不定。古今多少事，都付笑谈中。</p>
+<h2>一. 岁岁年年有所历</h2>
+<p>走过2021，钱院是头，计院是尾。这是我第一次感觉，一年，理应是漫长而又充实的，就像</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于生活的一点点思考]]></title>
+        <id>https://valaxy.site/posts/essay/生活思考</id>
+        <link href="https://valaxy.site/posts/essay/生活思考"/>
+        <updated>2022-10-30T05:58:51.000Z</updated>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语言实现贪吃蛇]]></title>
+        <id>https://valaxy.site/posts/project/Go语言实现贪吃蛇</id>
+        <link href="https://valaxy.site/posts/project/Go语言实现贪吃蛇"/>
+        <updated>2022-02-17T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>摘要：贪吃蛇是我们从小玩到大的小游戏，本次实训以此为载体，将Go语言的基本语法与使用规范进行展示。同时在报告中也会对Go语言的独有特性进行介绍。</p>
+</blockquote>
+<p><strong>一.项目分析</strong></p>
+<p>(一)贪吃蛇玩法：</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平庸与卓越之间的差别不在于天赋]]></title>
+        <id>https://valaxy.site/posts/share/平凡与庸俗的差距不在天赋</id>
+        <link href="https://valaxy.site/posts/share/平凡与庸俗的差距不在天赋"/>
+        <updated>2023-02-04T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>平庸与卓越之间的差别，不在于天赋，而在于长期的坚持、持续的投入。</strong></p>
+<p>本文编辑整理自清华大学陈吉宁校长履新环保部前，于2015年1月27日清华大学第一次研究生毕业典礼暨学位授予仪式上的演讲</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双指针、BFS和图论]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/双指针算法</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/双指针算法"/>
+        <updated>2022-02-28T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>双指针算法、BFS与图论</h1>
+<h2>1.双指针算法</h2>
+<p>通常考虑遍历所有区间时会用到这种算法，比如需要枚举一段时间内的所有定长时间段，由于在时间轴上两个时间段会有大部分位置的重合，因此每次可以减</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树状数组和线段树]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/树状数组和线段树</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/树状数组和线段树"/>
+        <updated>2023-03-14T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>树状数组和线段树</h1>
+<p>树状数组相比线段树更快，代码更短</p>
+<h2>一.树状数组</h2>
+<ul>
+<li>树状数组的下标是从1开始的</li>
+<li>基本功能
+<ul>
+<li>在某个位置上加上一个数，即单点修改</li>
+<li>求某个前缀和，即区</li>
+</ul>
+</li>
+</ul>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最小生成树]]></title>
+        <id>https://valaxy.site/posts/data_structure/search-map/mst</id>
+        <link href="https://valaxy.site/posts/data_structure/search-map/mst"/>
+        <updated>2024-02-05T08:49:08.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<h2>1 Prim</h2>
+<p>思路：从任意一点初始化生成树集合，之后不断将到集合最短距离的点加入集合，表示确定该点。然后利用该点更新与之联系的各点到集合的距离。</p>
+<p>找最短边，叠</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“有些鸟儿是注定不会被关在牢笼里的”——《肖申克的救赎》观影记]]></title>
+        <id>https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受</id>
+        <link href="https://valaxy.site/posts/essay/movie/肖申克的救赎观影感受"/>
+        <updated>2022-01-08T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h2>纲要</h2>
+<p>本文由以下两部分组成</p>
+<blockquote>
+<p>启迪：自我、决心与智慧<br>
+电影：拍摄手法，绝妙的对比，前后与左右</p>
+</blockquote>
+<p>以及更进一步的</p>
+<blockquote>
+<ol>
+<li>隐忍的前提是决心，安迪有获得自由的决心，他不向现实低头</li>
+</ol>
+</blockquote>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观上大龙门石窟有感]]></title>
+        <id>https://valaxy.site/posts/essay/travel/观上大龙门石窟有感</id>
+        <link href="https://valaxy.site/posts/essay/travel/观上大龙门石窟有感"/>
+        <updated>2021-10-05T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<p>铭心妙相，龙门石窟。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语法基础]]></title>
+        <id>https://valaxy.site/posts/techstack/Go/Go语言语法基础</id>
+        <link href="https://valaxy.site/posts/techstack/Go/Go语言语法基础"/>
+        <updated>2022-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>包、变量和函数</h2>
+<p>待填</p>
+<h2>流程控制语句（for、if、else、switch和defer）</h2>
+<p>待填</p>
+<h2>实用的类型</h2>
+<h3>切片</h3>
+<ul>
+<li>相关特性</li>
+</ul>
+<ol>
+<li>切片的长度len：切片内包</li>
+</ol>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Guideline]]></title>
+        <id>https://valaxy.site/posts/techstack/front-end/css</id>
+        <link href="https://valaxy.site/posts/techstack/front-end/css"/>
+        <updated>2024-03-07T14:55:46.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<p><a href="https://www.acwing.com/file_system/file/content/whole/index/content/4194723/">文档手册</a></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.465Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 1]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-1"/>
+        <updated>2022-02-28T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>前缀和模板题</h1>
+<h2>1. 前缀和</h2>
+<p>输入一个长度为 n 的整数序列。</p>
+<p>接下来再输入 m 个询问，每个询问输入一对 l,r。</p>
+<p>对于每个询问，输出原序列中从第 l 个数到第 r 个数的和。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 2]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-2"/>
+        <updated>2022-03-01T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>二分与前缀和的练习</h1>
+<h2>分巧克力</h2>
+<p>儿童节那天有 K位小朋友到小明家做客。</p>
+<p>小明拿出了珍藏的巧克力招待小朋友们。</p>
+<p>小明一共有 N 块巧克力，其中第 ii 块是 Hi×Wi 的方格组成的长</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 3]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-3"/>
+        <updated>2023-03-02T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>数学与简单DP</h1>
+<h2>数学（根据例题讲解）</h2>
+<h3>买不到的数</h3>
+<p>小明开了一家糖果店。</p>
+<p>他别出心裁：把水果糖包成4颗一包和7颗一包的两种。</p>
+<p>糖果不能拆包卖。</p>
+<p>小朋友来买糖的时候，他</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 4]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-4"/>
+        <updated>2022-03-03T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>不简单DP</h1>
+<h2>01背包问题</h2>
+<p>有 N 件物品和一个容量是 V 的背包。每件物品只能使用一次。</p>
+<p>第 i 件物品的体积是 vi，价值是 wi。</p>
+<p>求解将哪些物品装入背包，可使这些物品的总</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 5]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-5"/>
+        <updated>2022-03-04T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>从集合角度分析DP问题</h1>
+<h2>算法特点</h2>
+<ul>
+<li>一般问法：最值（价值等属性）、达到某一目标的方向总数</li>
+<li>背包问题的本质为组合问题，即在一定条件下从一部分物品中挑选物品；同时也类似于图论的最</li>
+</ul>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 6]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-6"/>
+        <updated>2022-03-05T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>背包问题练习与LeetCode初体验</h1>
+<p>这两天做题效率低了一些，不过背包是一块难啃的骨头，要集中一些。</p>
+<h2>波动数列</h2>
+<p>观察这个数列：</p>
+<p>1 3 0 2 -1 1 -2 …</p>
+<p>这个数列中</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 7]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-7"/>
+        <updated>2022-03-08T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>枚举、模拟问题</h1>
+<p>这类问题通常没有一个非常契合的算法作为计算模板，但通常数据量是有过精心设计的。</p>
+<p>我们可以通过以下问题来看一看。</p>
+<h2>1.连续区间段</h2>
+<blockquote>
+<p>没有思路时，从暴力做法入手</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACDaily 8]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acdaily/ACDaily-8</id>
+        <link href="https://valaxy.site/posts/ACDaily/acdaily/ACDaily-8"/>
+        <updated>2022-03-09T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>枚举、模拟问题续</h1>
+<h2>1.移动距离</h2>
+<p>X星球居民小区的楼房全是一样的，并且按矩阵样式排列。</p>
+<p>其楼房的编号为  1,2,3…<br>
+当排满一行时，从下一行相邻的楼往反方向排号。</p>
+<p>比如：当小</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-20T07:30:39.461Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基本格式参考]]></title>
+        <id>https://valaxy.site/posts/blogsetup/basefrontmatter</id>
+        <link href="https://valaxy.site/posts/blogsetup/basefrontmatter"/>
+        <updated>2024-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>关于文章frontmatter的格式参考，可设置的内容比较多~</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA]]></title>
+        <id>https://valaxy.site/posts/experience/QA</id>
+        <link href="https://valaxy.site/posts/experience/QA"/>
+        <updated>2024-03-07T15:52:03.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<h2>2024.3.7</h2>
+<h3>Mac系统安装PicGo时打开报错：文件已损坏，您应该将它移到废纸篓</h3>
+<p><strong>解决办法</strong></p>
+<ul>
+<li>打开终端输入以下内容，“为安装路径，默</li>
+</ul>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-07T15:52:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acweek2]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acweek/acweek2</id>
+        <link href="https://valaxy.site/posts/ACDaily/acweek/acweek2"/>
+        <updated>2023-12-21T09:58:49.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<blockquote>
+<p>一些算法中常用数据结构的写法。</p>
+</blockquote>
+<h2>1 链表</h2>
+<h3>1.1 单链表</h3>
+<p>[原题链接](<a href="https://www.acwing.com/problem/conte">https://www.acwing.com/problem/conte</a></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-12-21T09:58:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acweek1]]></title>
+        <id>https://valaxy.site/posts/ACDaily/acweek/acweek1</id>
+        <link href="https://valaxy.site/posts/ACDaily/acweek/acweek1"/>
+        <updated>2023-10-08T02:08:37.000Z</updated>
+        <content type="html"><![CDATA[<p>工作算法准备第一周，a new beginning！<!--more--></p>
+<h2>1 排序</h2>
+<h3>1.1 快速排序</h3>
+<p>[原题链接](<a href="https://www.acwing.com/activi">https://www.acwing.com/activi</a></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-12-01T02:08:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错误报告01]]></title>
+        <id>https://valaxy.site/posts/Maintenance log/buglog</id>
+        <link href="https://valaxy.site/posts/Maintenance log/buglog"/>
+        <updated>2023-09-16T01:45:59.000Z</updated>
+        <content type="html"><![CDATA[<p>当网站中出现0101的空文件时，可以检查一下是否有YAML为空的文章，通常情况这是对未标识属性文档的判别。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-09-16T01:45:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hugo博客维护日志-230206]]></title>
+        <id>https://valaxy.site/posts/Maintenance log/20230206</id>
+        <link href="https://valaxy.site/posts/Maintenance log/20230206"/>
+        <updated>2023-02-05T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[  <!--more-->
+<h2>1. encrypt加密</h2>
+<ol>
+<li>找到<code>themes\LoveIt\layouts\posts\single.html</code>文件,在`{{- $params := .</li>
+</ol>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-05T17:35:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[woop]]></title>
+        <id>https://valaxy.site/posts/share/WOOP理论</id>
+        <link href="https://valaxy.site/posts/share/WOOP理论"/>
+        <updated>2023-02-04T09:06:36.000Z</updated>
+        <content type="html"><![CDATA[<p>我们从第一个字母开始。第一个字母是W。W就是wish的缩写，就是愿望的意思。请想象你最想通过努力实现的事情。如果你有好几个愿望，那就选一个对你而言最重要的。记住，一次只能想一个愿望。</p>
+<p>想好了吗？好</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-04T09:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真正的高手，在于稳定性与可持续性]]></title>
+        <id>https://valaxy.site/posts/share/continue</id>
+        <link href="https://valaxy.site/posts/share/continue"/>
+        <updated>2023-02-04T09:06:36.000Z</updated>
+        <content type="html"><![CDATA[<p>**人生终归会经历起起落落，但真正的高手，无论外部环境优劣，无论自身运气好坏，总是能持之以恒的遵循计划 ：稳扎稳打，步步为营，日积跬步，以致千里。具体的成功路径或许无法复刻，但真正的高手身上总有一</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-04T09:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何才能在所从事的领域出类拔萃？]]></title>
+        <id>https://valaxy.site/posts/share/top1</id>
+        <link href="https://valaxy.site/posts/share/top1"/>
+        <updated>2023-02-04T09:06:36.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>-红与绿，让投资多姿多彩-</strong></p>
+<p><strong>红与绿导读：</strong></p>
+<p>不需要很长时间，你就可以凭你的爱好生存了。这需要你辛苦工作、做出牺牲、持之以恒**。然而，让你生存下来的法则不会让你迈向巅峰。打破规矩</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-04T09:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugo BlogStory]]></title>
+        <id>https://valaxy.site/posts/experience/BlogStory</id>
+        <link href="https://valaxy.site/posts/experience/BlogStory"/>
+        <updated>2022-09-12T17:35:51.000Z</updated>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-09-12T17:35:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://valaxy.site/posts/blogsetup/hello-valaxy</id>
+        <link href="https://valaxy.site/posts/blogsetup/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破局者]]></title>
+        <id>https://valaxy.site/posts/share/破局者</id>
+        <link href="https://valaxy.site/posts/share/破局者"/>
+        <updated>2022-01-18T17:35:51.000Z</updated>
+        <content type="html"><![CDATA[<h1>马云说哪种人最值得重用？朽木者、敷衍者、守成者、破局者...</h1>
+<p>![img](<a href="https://5b0988e595225.cdn.sohucs.com/images/20180511/104">https://5b0988e595225.cdn.sohucs.com/images/20180511/104</a></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-01-18T17:35:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何寻找第一份实习]]></title>
+        <id>https://valaxy.site/posts/experience/如何寻找第一份实习</id>
+        <link href="https://valaxy.site/posts/experience/如何寻找第一份实习"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>如何寻找第一份实习</h1>
+<h2>找工作分为三个阶段</h2>
+<ol>
+<li>找工作前：校招前半个月</li>
+<li>找工作中</li>
+<li>offer到手</li>
+</ol>
+<h3>找工作前</h3>
+<ol>
+<li>首先要明确自己的目标，一定要选择自己喜欢的方向。</li>
+</ol>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论文经验整理]]></title>
+        <id>https://valaxy.site/posts/experience/论文经验整理</id>
+        <link href="https://valaxy.site/posts/experience/论文经验整理"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>论文整理经验</h1>
+<p><em><strong>2021.10.1-2021.10.10</strong></em></p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[军训小结]]></title>
+        <id>https://valaxy.site/posts/essay/feel/军训小结</id>
+        <link href="https://valaxy.site/posts/essay/feel/军训小结"/>
+        <updated>2021-07-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>两周的军训，转瞬即逝。我觉得这段时光可以分为两个阶段，第一个阶段是“监督学习”，第二个阶段则是“无监督学习”。监督学习阶段指的是连长和副连长对我们严格教导训练我们军事素养的时光，而无监督学习阶段则指的是台风烟花登录的前后。前者是对我们毅力思想的双重磨砺，后者是对前者两个品质的考验。两个阶段，各有各的侧重点，但都颇具价值。</p>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-07-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阳光下的成长]]></title>
+        <id>https://valaxy.site/posts/essay/feel/阳光下的成长</id>
+        <link href="https://valaxy.site/posts/essay/feel/阳光下的成长"/>
+        <updated>2021-07-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>不经风雨，怎见彩虹</h1>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-07-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红色教育]]></title>
+        <id>https://valaxy.site/posts/essay/feel/红色教育</id>
+        <link href="https://valaxy.site/posts/essay/feel/红色教育"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>感想</h1>
+]]></content>
+        <author>
+            <name>林知</name>
+            <email>l1477319644@163.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-07-01T00:00:00.000Z</published>
+    </entry>
+</feed>
