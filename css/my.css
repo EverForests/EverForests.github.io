@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'tzy';
+  font-family: 'ZhuZiAWan';
 /* 字体名自定义即可 */
-  src: url("https://image.nickxu.me/ZhuZiAWan.woff2");
+  src: url("/font/ZhuZiAWan.woff2");
 /* 字体文件路径 */
   font-display: swap;
 }
 body,
 .gitcalendar {
-  font-family: tzy !important;
+  font-family: ZhuZiAWan !important;
 }
 .categoryBar-list {
   max-height: 400px;
