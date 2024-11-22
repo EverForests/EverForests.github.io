@@ -118,19 +118,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Test</title>
-    <url>/2024/06/10/test/</url>
-    <content><![CDATA[<p>hexo<br>test test<br>${123}$</p>
-<p><img src="https://raw.githubusercontent.com/EverForests/PicGo/master/footer.jpg" alt="test"></p>
-]]></content>
-      <categories>
-        <category>init</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/06/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -149,6 +136,19 @@
       <tags>
         <tag>hexo</tag>
         <tag>init</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test</title>
+    <url>/2024/06/10/test/</url>
+    <content><![CDATA[<p>hexo<br>test test<br>${123}$</p>
+<p><img src="https://raw.githubusercontent.com/EverForests/PicGo/master/footer.jpg" alt="test"></p>
+]]></content>
+      <categories>
+        <category>init</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>
@@ -565,8 +565,8 @@
       </tags>
   </entry>
   <entry>
-    <title>minroute</title>
-    <url>/2024/11/15/acking/SearchGraphic/minroute/</url>
+    <title>datatravel</title>
+    <url>/2024/11/15/acking/SearchGraphic/datatravel/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -575,8 +575,26 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>datatravel</title>
-    <url>/2024/11/15/acking/SearchGraphic/datatravel/</url>
+    <title>minroute</title>
+    <url>/2024/11/15/acking/SearchGraphic/minroute/</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>线性DP</title>
+    <url>/2024/11/22/acking/DP/linerDP/</url>
+    <content><![CDATA[<h2 id="数字三角形-Go"><a href="#数字三角形-Go" class="headerlink" title="数字三角形 Go"></a>数字三角形 <a href="https://www.acwing.com/problem/content/900/">Go</a></h2><p>基于实体逻辑的动态规划称为线性DP，采用闫氏DP分析法，自下而上（这样每点的后继是有限的，状态可解），设终点为点K的最大路径数字和为f[i][j]（因为有两个维度）。基于这样的假设，得出转移方程，f[1][1]就是目标结果。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;algorithm&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> N = <span class="number">510</span>;</span><br><span class="line"><span class="type">int</span> f[N][N];</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span> <span class="params">()</span> </span>&#123;</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; i++)</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> j = <span class="number">1</span>; j &lt;= i; j++)</span><br><span class="line">            cin &gt;&gt; f[i][j];</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = n; i; i--)</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> j = <span class="number">1</span>; j &lt;= i; j++)</span><br><span class="line">            f[i][j] = <span class="built_in">max</span>(f[i+<span class="number">1</span>][j], f[i+<span class="number">1</span>][j+<span class="number">1</span>]) + f[i][j];</span><br><span class="line">  </span><br><span class="line">    cout &lt;&lt; f[<span class="number">1</span>][<span class="number">1</span>] &lt;&lt; endl;</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="最长上升子序列-Go"><a href="#最长上升子序列-Go" class="headerlink" title="最长上升子序列 Go"></a>最长上升子序列 <a href="https://www.acwing.com/problem/content/897/">Go</a></h2><p>给定一个序列，求数值严格递增的最大长度子序列。</p>
+<p>构造，以序列中第i个数结尾的子序列中最大长度为f[i]，对于第k个数，在计算f[k]时，需要考虑的是以第1～k-1个数结尾的子序列中的最大长度，遍历取最大值即可。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;algorithm&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> N = <span class="number">1010</span>;</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"><span class="type">int</span> a[N], f[N];</span><br><span class="line"></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; i++) cin &gt;&gt; a[i];</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; i++) &#123;</span><br><span class="line">        f[i] = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> j = <span class="number">1</span>; j &lt; i; j++)&#123;</span><br><span class="line">            <span class="keyword">if</span> (a[i] &gt; a[j]) f[i] = <span class="built_in">max</span>(f[i], f[j] + <span class="number">1</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  </span><br><span class="line">    <span class="type">int</span> res = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; i++) res = <span class="built_in">max</span>(res, f[i]);</span><br><span class="line">  </span><br><span class="line">    cout &lt;&lt; res &lt;&lt; endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="最长上升子序列强化版-Go"><a href="#最长上升子序列强化版-Go" class="headerlink" title="最长上升子序列强化版 Go"></a>最长上升子序列强化版 <a href="https://www.acwing.com/problem/content/898/">Go</a></h2><p>在数据量较大时，基础的多重循环解法已不再适用。这里有一种特殊的考虑，找到每种长度上升子序列的最小末尾值f[i]，利用反证法可以验证f也为严格上升序列，这样只需要遍历原序列中的每一个数j，利用二分法找到f序列中小于j的最大数的位置，加入j不断更新f序列，最终f序列的长度就是原序列中最长的上升子序列。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;algorithm&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> N = <span class="number">100010</span>;</span><br><span class="line"><span class="type">int</span> f[N], a[N];</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    f[<span class="number">0</span>] = <span class="number">-2e9</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++) cin &gt;&gt; a[i];</span><br><span class="line">  </span><br><span class="line">    <span class="type">int</span> len = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">        <span class="type">int</span> l = <span class="number">0</span>, r = len;</span><br><span class="line">        <span class="keyword">while</span> (l &lt; r) &#123;</span><br><span class="line">            <span class="type">int</span> mid = (l + r + <span class="number">1</span>) &gt;&gt; <span class="number">1</span>;</span><br><span class="line">            <span class="keyword">if</span> (f[mid] &lt; a[i]) l = mid;</span><br><span class="line">            <span class="keyword">else</span> r = mid - <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">      </span><br><span class="line">        f[r + <span class="number">1</span>] = a[i];</span><br><span class="line">        len = <span class="built_in">max</span>(len, r+<span class="number">1</span>);</span><br><span class="line">    &#125;</span><br><span class="line">  </span><br><span class="line">    cout &lt;&lt; len &lt;&lt; endl;</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>acking</category>
+      </categories>
+      <tags>
+        <tag>动态规划</tag>
+      </tags>
   </entry>
 </search>
